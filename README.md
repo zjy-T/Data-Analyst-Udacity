@@ -6,8 +6,8 @@ To view my review of this nanodegree, please visit: https://medium.com/@tonyjyz/
 
 This Nanodegree is split into 5 Modules:
 
-Introduction + Exploring Weather Trends
-Intoduction to Data Analysis
-Practical Statistics
-Data Wrangling
-Data Visualization
+- Introduction + Exploring Weather Trends
+- Intoduction to Data Analysis
+- Practical Statistics
+- Data Wrangling
+- Data Visualization
